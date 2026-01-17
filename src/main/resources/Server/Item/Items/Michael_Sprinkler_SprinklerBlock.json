@@ -1,0 +1,80 @@
+{
+  "TranslationProperties": {
+    "Name": "items.Michael_Sprinkler_SprinklerBlock.name",
+    "Description": "items.Michael_Sprinkler_SprinklerBlock.description"
+  },
+  "PlayerAnimationsId": "Block",
+  "Categories": [
+    "Furniture.Containers"
+  ],
+  "Icon": "Icons/ItemsGenerated/Michael_Sprinkler_SprinklerBlock_Logo.png",
+  "BlockType": {
+    "State": {
+      "Id": "Michael_Sprinkler_SprinklerBlock"
+    },
+    "BlockSoundSetId": "Metal",
+    "CustomModel": "Blocks/Michael_Sprinkler_SprinklerBlock/Michael_Sprinkler_SprinklerBlock.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Michael_Sprinkler_SprinklerBlock/Michael_Sprinkler_SprinklerBlock.png",
+        "Weight": 1
+      }
+    ],
+    "DrawType": "Model",
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Rocks"
+      }
+    },
+    "Material": "Solid",
+    "Opacity": "Transparent",
+    "ParticleColor": "#4b4b4b",
+    "BlockParticleSetId": "Metal",
+    "VariantRotation": "NESW",
+    "CustomModelAnimation": "Blocks/Michael_Sprinkler_SprinklerBlock/Michael_Sprinkler_SprinklerBlock.blockyanim",
+    "Looping": true
+  },
+  "Tags": {
+    "Type": [
+      "Furniture"
+    ]
+  },
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Tool_Watering_Can",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "Ingredient_Bar_Iron",
+        "Quantity": 4
+      },
+      {
+        "ItemId": "Plant_Petals_Yellow",
+        "Quantity": 4
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Type": "Crafting",
+        "Categories": [
+          "Farming"
+        ],
+        "Id": "Farmingbench"
+      }
+    ]
+  },
+  "IconProperties": {
+    "Scale": 0.55,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -15
+    ]
+  },
+  "ItemSoundSetId": "ISS_Blocks_Stone"
+}

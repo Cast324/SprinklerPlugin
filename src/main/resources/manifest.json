@@ -1,0 +1,19 @@
+{
+  "Group": "MichaelBlades",
+  "Name": "Sprinklers",
+  "Version": "1.0.0",
+  "Description": "Sprinklers to water all the things!",
+  "Authors": [
+    {
+      "Name": "Michael",
+      "Url": "https://github.com/cast324"
+    }
+  ],
+  "Website": "https://github.com/cast324",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "Main": "com.michaelblades.SprinklersPlugin"
+}

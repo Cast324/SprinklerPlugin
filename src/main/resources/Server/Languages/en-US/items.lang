@@ -1,0 +1,6 @@
+Michael_Sprinkler_SprinklerBlock.name=Sprinkler
+Michael_Sprinkler_SprinklerBlock.description=Waters crops in a 3X3 area.
+Michael_Sprinkler_SprinklerBlock_Thorium.name=Thorium Sprinkler
+Michael_Sprinkler_SprinklerBlock_Thorium.description=Waters crops in a 5X5 area.
+Michael_Sprinkler_SprinklerBlock_Cobalt.name=Cobalt Sprinkler
+Michael_Sprinkler_SprinklerBlock_Cobalt.description=Waters crops in a 8X8 area.
