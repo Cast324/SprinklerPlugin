@@ -60,7 +60,8 @@
         "Categories": [
           "Farming"
         ],
-        "Id": "Farmingbench"
+        "Id": "Farmingbench",
+        "RequiredTierLevel": 7
       }
     ]
   },
