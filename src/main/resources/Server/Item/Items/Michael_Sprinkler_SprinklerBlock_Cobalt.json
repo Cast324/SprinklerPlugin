@@ -13,6 +13,14 @@
       "Id": "Michael_Sprinkler_SprinklerBlock_Cobalt"
     },
     "BlockSoundSetId": "Metal",
+    "HitboxType": "Michael_Sprinkler_SprinklerHitbox",
+    "Support": {
+      "Down": [
+        {
+          "FluidId": "Water_Source"
+        }
+      ]
+    },
     "CustomModel": "Blocks/Michael_Sprinkler_SprinklerBlock/Michael_Sprinkler_SprinklerBlock.blockymodel",
     "CustomModelTexture": [
       {
